@@ -1,0 +1,22 @@
+# Python caches
+**/__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.venv/
+env/
+venv/
+
+# Project specific (Omni-Core)
+omni-core/build/
+omni-core/dist/
+omni-core/logs/
+*.db
+*.exe
+*.dat
+*.pyd
+
+# PyArmor & Security
+.pyarmor.ikey
+omni-core/build/obfuscated_workspace/

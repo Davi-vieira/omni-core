@@ -1,0 +1,13 @@
+{
+  "branding": {
+    "app_name": "Omni-Core ERP",
+    "edition": "Enterprise Edition",
+    "support_provider": "Seu Nome/Empresa"
+  },
+  "theme": {
+    "primary": "#1f6f78",
+    "secondary": "#f4b266",
+    "background": "#0b1220",
+    "mode": "dark"
+  }
+}

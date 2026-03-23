@@ -1,0 +1,114 @@
+CONTRATO DE LICENCA DE USO DE SOFTWARE - OMNI-CORE ERP
+
+IMPORTANTE: AO INSTALAR, ACESSAR OU UTILIZAR O OMNI-CORE ERP, O CLIENTE E O
+USUARIO DECLARAM QUE LERAM, COMPREENDERAM E ACEITARAM INTEGRALMENTE OS TERMOS
+DESTE CONTRATO.
+
+1. PARTES E OBJETO
+1.1. Este contrato regula a concessao de licenca de uso do software Omni-Core
+ERP, incluindo seus modulos, componentes de inteligencia artificial, regras de
+negocio, estruturas de banco de dados, fluxos de automacao, telas, instalador,
+documentacao e demais ativos correlatos.
+1.2. A licenca e concedida por [Seu Nome/Empresa], doravante denominada
+LICENCIANTE, ao cliente contratante, doravante denominado LICENCIADO.
+
+2. PROPRIEDADE INTELECTUAL
+2.1. O software Omni-Core ERP, sua arquitetura, codigo-fonte, componentes
+ofuscados, motores deterministas, logica de inteligencia artificial, regras de
+preco, fluxos de auditoria e toda a propriedade intelectual associada pertencem
+exclusivamente a [Seu Nome/Empresa].
+2.2. Este contrato nao transfere ao LICENCIADO qualquer direito de titularidade
+sobre o software, concedendo apenas uma licenca limitada, revogavel,
+intransferivel e nao exclusiva de uso.
+
+3. ESCOPO DA LICENCA
+3.1. O LICENCIADO podera utilizar o software exclusivamente para operacao
+interna do seu negocio, dentro dos limites tecnicos e comerciais contratados.
+3.2. A licenca podera estar vinculada a hardware especifico, ambiente local,
+chave de ativacao, modulo contratado ou outro criterio definido pela
+LICENCIANTE.
+
+4. USO DA INTELIGENCIA ARTIFICIAL
+4.1. Os recursos de inteligencia artificial do Omni-Core ERP possuem natureza
+assistiva e de sugestao. A camada de IA pode recomendar intencoes, descontos,
+respostas comerciais e propostas, mas nao substitui a analise humana do
+LICENCIADO.
+4.2. O LICENCIADO reconhece que toda decisao comercial final, inclusive preco,
+desconto, margem, aprovacao de venda, aceite de proposta e politica de estoque,
+deve ser validada por operador humano e/ou pelo Motor de Regras deterministico
+do sistema.
+4.3. [Seu Nome/Empresa] nao se responsabiliza por decisoes comerciais, perdas
+financeiras, descontos concedidos, recusas de venda ou qualquer impacto
+operacional decorrente do uso indevido, da interpretacao incorreta ou da nao
+validacao humana das sugestoes emitidas pela IA.
+
+5. TRAVA DE HARDWARE E LICENCIAMENTO
+5.1. O LICENCIADO concorda que o software podera utilizar mecanismos de
+identificacao de hardware, incluindo HWID, UUID, serial de processador ou
+componentes equivalentes, para validar a autorizacao de uso.
+5.2. E expressamente proibido tentar burlar, remover, alterar, clonar,
+transferir, redistribuir ou reproduzir a licenca para outro computador, usuario
+ou ambiente sem autorizacao formal da LICENCIANTE.
+5.3. E igualmente proibida qualquer tentativa de engenharia reversa,
+descompilacao, desmontagem, adulteracao de binarios, neutralizacao de ofuscacao
+ou qualquer forma de contorno dos mecanismos de protecao e licenciamento.
+
+6. RESTRICOES DE USO
+6.1. Sem autorizacao escrita da LICENCIANTE, o LICENCIADO nao podera:
+- copiar, sublicenciar, alugar, arrendar, revender ou distribuir o software;
+- disponibilizar o software a terceiros fora da estrutura contratada;
+- alterar, traduzir, adaptar ou derivar versoes paralelas do sistema;
+- utilizar o software para finalidade ilicita, fraudulenta ou contraria a este
+contrato.
+
+7. DADOS, LGPD E RESPONSABILIDADE OPERACIONAL
+7.1. O banco de dados operacional do Omni-Core ERP e armazenado localmente, em
+infraestrutura sob controle do LICENCIADO, salvo contratacao expressa em
+sentido diverso.
+7.2. O LICENCIADO e o controlador dos dados pessoais, cadastrais, comerciais e
+financeiros inseridos no sistema, sendo o unico responsavel pela conformidade
+com a LGPD, pela base legal de tratamento, pela retencao, pela confidencialidade
+e pela seguranca dos dados de seus clientes, funcionarios e parceiros.
+7.3. O LICENCIADO e responsavel por politica de backup, antivirus, controle de
+acesso, senha, seguranca fisica da maquina, restauracao de contingencia e boas
+praticas de protecao dos dados locais.
+7.4. [Seu Nome/Empresa] nao responde por vazamentos, perda de dados, falhas de
+backup, sequestro de dados, indisponibilidade do equipamento ou incidentes de
+seguranca decorrentes de infraestrutura, uso inadequado ou omissao do
+LICENCIADO.
+
+8. AUDITORIA, REGISTROS E INTEGRIDADE
+8.1. O sistema podera manter trilhas de auditoria, historico de conversas,
+eventos de IA, validacoes de regras, transacoes de estoque e registros de
+backup para fins de seguranca, rastreabilidade e suporte tecnico.
+8.2. O LICENCIADO concorda com a manutencao desses registros internos como parte
+da integridade operacional do software.
+
+9. GARANTIA LIMITADA
+9.1. O software e fornecido no estado em que se encontra, respeitados os termos
+comerciais expressamente assumidos pela LICENCIANTE.
+9.2. Na maxima extensao permitida pela legislacao aplicavel, nao ha garantia de
+resultado comercial, ausencia de interrupcoes, compatibilidade universal ou
+adequacao a finalidade especifica alem daquela expressamente contratada.
+
+10. LIMITACAO DE RESPONSABILIDADE
+10.1. Em nenhuma hipotese [Seu Nome/Empresa] sera responsavel por danos
+indiretos, lucros cessantes, perda de oportunidade, perda de dados, erro humano,
+decisao comercial incorreta, falha operacional do LICENCIADO ou prejuizo
+decorrente de uso do software fora das regras estabelecidas.
+10.2. Qualquer responsabilidade eventualmente apurada ficara limitada ao valor
+efetivamente pago pelo LICENCIADO pela licenca ou pelo periodo contratual
+relacionado ao evento, quando permitido por lei.
+
+11. RESCISAO
+11.1. O descumprimento de qualquer clausula deste contrato autoriza a
+LICENCIANTE a suspender ou rescindir imediatamente a licenca, sem prejuizo das
+medidas administrativas, civeis e criminais cabiveis.
+
+12. DISPOSICOES FINAIS
+12.1. A tolerancia de uma parte com a outra nao constitui renuncia de direito.
+12.2. A eventual nulidade de uma clausula nao invalida as demais disposicoes.
+12.3. O uso continuado do software apos atualizacoes deste contrato sera
+interpretado como aceite da versao vigente.
+
+FIM DO CONTRATO.

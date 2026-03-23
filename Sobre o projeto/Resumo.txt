@@ -1,0 +1,67 @@
+Omni-Core Business Engine: Inteligência Soberana para Gestão de Varejo
+1. O Problema de Mercado (A Dor Real)
+Atualmente, pequenas e médias empresas de varejo perdem até 30% do faturamento devido a três fatores críticos:
+
+Erro Humano: Vendas perdidas por falta de consulta rápida ao estoque ou erro de compatibilidade.
+
+Inconsistência de Preços: Descontos aplicados manualmente que corroem a margem de lucro.
+
+Gargalo de Atendimento: Clientes que desistem da compra por demora no retorno via WhatsApp.
+
+2. A Solução: ERP Híbrido com IA Soberana
+O Omni-Core não é um chatbot; é o sistema operacional da empresa. Ele automatiza o atendimento repetitivo e a gestão de inventário, garantindo que cada decisão comercial respeite as diretrizes do dono.
+
+Diferencial Único: A IA sugere e negocia, mas o Motor de Regras Determinístico decide. É a união da flexibilidade da IA com a rigidez de um sistema financeiro.
+
+3. Pilares Estratégicos e Técnicos
+3.1. Inteligência de Dados (RAG & Real-Time)
+Diferente de IAs genéricas, o Omni-Core utiliza Retrieval-Augmented Generation (RAG). A IA lê o banco de dados SQLite/PostgreSQL da loja em tempo real.
+
+Impacto: Respostas precisas sobre estoque, preço e especificações técnicas, eliminando "alucinações" do robô.
+
+Métrica Estimada: Redução de 85% no tempo médio de resposta ao cliente.
+
+3.2. Motor de Lucratividade (Margem Blindada)
+O sistema possui um algoritmo de validação que impede qualquer transação abaixo da margem de segurança.
+
+Regra de Ouro: Preço Mínimo = Max(Preço de Tabela - Margem IA, Preço de Custo + Impostos).
+
+Benefício: Proteção total contra prejuízos em negociações automatizadas.
+
+3.3. Integridade Patrimonial e Continuidade
+Segurança redesenhada para o valor do cliente:
+
+Operação Standalone: O sistema roda localmente. Se a internet cair, o balcão da loja não para.
+
+Privacidade Total: Os dados de faturamento e clientes não saem da máquina do lojista para nuvens de terceiros.
+
+Segurança de Software: Blindagem via HWID e Ofuscação Binária, garantindo que o software contratado seja autêntico e livre de manipulações externas.
+
+4. Arquitetura de Execução (O Blueprint Técnico)
+Para garantir escalabilidade, o projeto segue uma separação rigorosa de camadas:
+
+Core Engine: Regras de negócio e transações atômicas (ACID).
+
+FSM (Máquina de Estados): Controle rígido do fluxo do cliente (Pesquisa -> Negociação -> Checkout).
+
+Interface PyQt6: Dashboard profissional com visão de estoque e faturamento em tempo real.
+
+5. Viabilidade Comercial e Escalabilidade (O Pitch de Negócio)
+Por que Agora?
+A maturidade das APIs de IA permite hoje o que era impossível há dois anos: automação com contexto real de negócio a um custo operacional baixíssimo.
+
+Modelo de Receita (SaaS Local):
+Licenciamento por Terminal: Assinatura mensal recorrente por máquina ativa.
+
+Módulos Premium: Upsell de módulos de previsão de demanda e gestão multi-loja.
+
+Implantação: Taxa de setup para higienização e importação da base de dados antiga do cliente.
+
+6. Próximos Passos: O Caminho para o MVP
+Fundação (Banco & Engine): Construção da base de dados e regras de validação (Concluído no planejamento).
+
+Voz (Integração IA): Acoplamento do Gemini para interpretação de linguagem natural.
+
+Visão (GUI): Desenvolvimento da interface administrativa para o lojista.
+
+Blindagem: Implementação do sistema de licenciamento e proteção de código.

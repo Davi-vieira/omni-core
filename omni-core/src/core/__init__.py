@@ -1,0 +1,56 @@
+"""Core Business Logic Module."""
+
+from .engine import (
+    EngineError,
+    InsufficientStockError,
+    InvalidProductError,
+    InvalidQuantityError,
+    NegotiationStatusError,
+    PricingSuggestion,
+    PriceValidationError,
+    ProductNotFoundError,
+    SaleExecutionResult,
+    ValidationResult,
+    build_pricing_suggestion,
+    calculate_minimum_price,
+    deactivate_product,
+    evaluate_proposal,
+    get_product,
+    list_products,
+    process_sale,
+    register_product,
+    update_product,
+    validate_sale_proposal,
+)
+from .fsm import FSMError, InvalidStateTransitionError, MissingProposalError, SaleFSM, SaleState, SaleSessionSnapshot
+
+__version__ = "1.0.0"
+__author__ = "Omni-Core Team"
+__all__ = [
+    "EngineError",
+    "FSMError",
+    "InsufficientStockError",
+    "InvalidStateTransitionError",
+    "InvalidProductError",
+    "InvalidQuantityError",
+    "MissingProposalError",
+    "NegotiationStatusError",
+    "PricingSuggestion",
+    "PriceValidationError",
+    "ProductNotFoundError",
+    "SaleFSM",
+    "SaleSessionSnapshot",
+    "SaleState",
+    "SaleExecutionResult",
+    "ValidationResult",
+    "build_pricing_suggestion",
+    "calculate_minimum_price",
+    "deactivate_product",
+    "evaluate_proposal",
+    "get_product",
+    "list_products",
+    "process_sale",
+    "register_product",
+    "update_product",
+    "validate_sale_proposal",
+]
